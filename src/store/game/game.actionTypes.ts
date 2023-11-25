@@ -1,0 +1,5 @@
+export const SET_IS_GAME_STARTED = "SET_IS_GAME_STARTED";
+export const SET_BOARD_SIZE = "SET_BOARD_SIZE";
+export const SET_BOARD = "SET_BOARD";
+export const SET_WINNER = "SET_WINNER";
+export const SET_CURRENT_PLAYER = "SET_CURRENT_PLAYER";
